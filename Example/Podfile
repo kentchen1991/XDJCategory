@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'XDJCategory_Example', :exclusive => true do
+  pod 'XDJCategory', :path => '../'
+end
+
+target 'XDJCategory_Tests', :exclusive => true do
+  pod 'XDJCategory', :path => '../'
+
+  pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+end
