@@ -1,0 +1,6 @@
+framework module XDJCategory {
+  umbrella header "XDJCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

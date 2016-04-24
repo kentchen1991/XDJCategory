@@ -1,0 +1,24 @@
+{
+  "name": "XDJCategory",
+  "version": "0.1.0",
+  "summary": "A short description of XDJCategory.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/XDJCategory",
+  "license": "MIT",
+  "authors": {
+    "kentchen1991": "492122973@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/XDJCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XDJCategory/Classes/**/*",
+  "resource_bundles": {
+    "XDJCategory": [
+      "XDJCategory/Assets/*.png"
+    ]
+  }
+}

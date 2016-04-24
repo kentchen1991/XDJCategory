@@ -1,0 +1,6 @@
+framework module Pods_XDJCategory_Tests {
+  umbrella header "Pods-XDJCategory_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
